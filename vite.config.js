@@ -8,10 +8,6 @@ export default defineConfig({
     // necessary for segment analytics lib to work
     global: {},
   },
-  base: '/',
-  build: {
-    outDir: 'public',
-  },
 });
 
 
